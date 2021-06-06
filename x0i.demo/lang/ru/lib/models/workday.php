@@ -1,0 +1,5 @@
+<?php
+$MESS['ENTITY_WORKDAY_FIELD_ID'] = 'ID';
+$MESS['ENTITY_WORKDAY_FIELD_PROFILE_ID'] = 'ID пользователя';
+$MESS['ENTITY_WORKDAY_FIELD_DATE_START'] = 'Время начала';
+$MESS['ENTITY_WORKDAY_FIELD_DATE_STOP'] = 'Время окончания';
